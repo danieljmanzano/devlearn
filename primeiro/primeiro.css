@@ -2,6 +2,15 @@ p {
     color: green;
 }
 
+#mensagem {
+    color: green;
+}
+
 #testando {
-    color: white
+    color: white;
+    background-color: #5ec8ae;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
 }
